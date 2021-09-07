@@ -1,5 +1,6 @@
 Rencana Konten Rproject
 -baca filosofi teras
  +pulang kerja
+ +mulai baca
 -belajar php
 -konsisten belajar
