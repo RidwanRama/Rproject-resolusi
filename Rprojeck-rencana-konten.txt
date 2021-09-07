@@ -1,9 +1,9 @@
 Rencana Konten Rproject
 -baca filosofi teras
- +pulang kerja
  +mulai baca
 -belajar php
 +cms
 +codeignite pedalami
 -konsisten belajar
 +list
+
