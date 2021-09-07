@@ -3,4 +3,5 @@ Rencana Konten Rproject
  +pulang kerja
  +mulai baca
 -belajar php
++codeignite pedalami
 -konsisten belajar
