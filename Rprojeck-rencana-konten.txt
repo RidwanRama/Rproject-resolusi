@@ -2,7 +2,8 @@ Rencana Konten Rproject
 -baca filosofi teras
  +mulai baca
 -belajar php
++cms
 +codeignite pedalami
 -konsisten belajar
-+jadwal harus konsisten
++list
 
